@@ -11,6 +11,7 @@ The **Hardware Simulator** is a web-based application that simulates and showcas
 ## Preview
 
 ![Hardware Simulator Preview](https://github.com/niladrigithub/hardware-simulator/blob/main/Screenshot%202024-01-29%20at%2001.58.36.png)
+![Hardware Simulator Preview](https://github.com/niladrigithub/hardware-simulator/blob/main/Screenshot%202024-01-29%20at%2002.02.56.png)
 
 ## Usage
 

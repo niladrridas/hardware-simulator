@@ -17,5 +17,14 @@ The **Hardware Simulator** is a web-based application that simulates and showcas
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/niladrigithub/hardware-simulator.git
+   `git clone https://github.com/niladrigithub/hardware-simulator.git`
+
+2. Run the Application:
+
+   `python3 -m http.server`
+
+3. View the Application:
+
+   `http://localhost:8000/`
+
+Get ready to embark on a journey of hardware discovery with the Hardware Simulator! Feel free to contribute, provide feedback, or explore the source [JavaScript](https://github.com/niladrigithub/hardware-simulator/blob/main/script.js) code on GitHub.

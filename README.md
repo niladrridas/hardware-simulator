@@ -10,14 +10,14 @@ The **Hardware Simulator** is a web-based application that simulates and showcas
 
 ## Preview
 
-![Hardware Simulator Preview](https://github.com/niladrigithub/hardware-simulator/blob/main/Screenshot%202024-01-29%20at%2001.58.36.png)
-![Hardware Simulator Preview](https://github.com/niladrigithub/hardware-simulator/blob/main/Screenshot%202024-01-29%20at%2002.02.56.png)
+![Hardware Simulator Preview](https://github.com/niladrridas/hardware-simulator/blob/main/Screenshot%202024-01-29%20at%2001.58.36.png)
+![Hardware Simulator Preview](https://github.com/niladrridas/hardware-simulator/blob/main/Screenshot%202024-01-29%20at%2002.02.56.png)
 
 ## Usage
 
 1. Clone the repository:
 
-   `git clone https://github.com/niladrigithub/hardware-simulator.git`
+   `git clone https://github.com/niladrridas/hardware-simulator.git`
 
 2. Run the Application:
 
@@ -27,4 +27,4 @@ The **Hardware Simulator** is a web-based application that simulates and showcas
 
    `http://localhost:8000/`
 
-Get ready to embark on a journey of hardware discovery with the Hardware Simulator! Feel free to contribute, provide feedback, or explore the source [JavaScript](https://github.com/niladrigithub/hardware-simulator/blob/main/script.js) code on GitHub.
+Get ready to embark on a journey of hardware discovery with the Hardware Simulator! Feel free to contribute, provide feedback, or explore the source [JavaScript](https://github.com/niladrridas/hardware-simulator/blob/main/script.js) code on GitHub.
